@@ -430,6 +430,8 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 500px;
+    height: 400px;
 }
 
 .contact-gif img {
@@ -442,7 +444,7 @@ section {
     font-size: 1.1em;
     line-height: 1.6;
     color: #ffffff; 
-    
+
 }
 
 #contact a {

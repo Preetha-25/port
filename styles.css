@@ -454,7 +454,6 @@ section {
     text-decoration: underline;
 }
 
-/* Responsive CSS */
 @media (max-width: 1200px) {
     header .container {
         padding: 0 1em;

@@ -278,8 +278,7 @@ section {
     padding-left: 250px;
 }
 #resume .resume-gif {
-    /* max-width: 100%; */
-    /* height: auto; */
+
     border-radius: 10px;
     height:100px;
     width:200px;
